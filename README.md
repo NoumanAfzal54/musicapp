@@ -1,4 +1,4 @@
-# app
+# Lyra
 
 A new Flutter project.
 
